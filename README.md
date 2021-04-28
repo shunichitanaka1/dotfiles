@@ -19,7 +19,6 @@ dotfiles
 ```
 
 ## Installation
-呼び出し元のファイルと同じ階層に `banner`  ディレクトリを設置してください.
 ```
 $ git clone https://github.com/shunichitanaka1/dotfiles.git
 $ cd dotfiles
