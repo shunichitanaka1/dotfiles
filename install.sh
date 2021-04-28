@@ -1,0 +1,9 @@
+cp .bash_profile ~/.bash_profile
+cp .bashrc ~/.bashrc
+cp .zprofile ~/.zprofile
+cp .zshrc ~/.zshrc
+cp .vimrc ~/.vimrc
+cp .tmux.conf ~/.tmux.conf
+cp .gitconfig ~/.gitconfig
+cp .gitconfig ~/.gitconfig
+cp .netrc ~/.netrc

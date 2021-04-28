@@ -1,0 +1,10 @@
+[filter "lfs"]
+	clean = git-lfs clean %f
+	smudge = git-lfs smudge %f
+	required = true
+[user]
+	name = Shunichi Tanaka
+	mail = s.tanaka1@kuronekoyamato.co.jp
+	email = s.tanaka1@kuronekoyamato.co.jp
+[core]
+	editor = vim -c \"set fenc=utf-8\"
