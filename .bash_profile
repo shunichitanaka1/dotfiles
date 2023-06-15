@@ -24,5 +24,6 @@ HISTCONTROL=ignoreboth
 HISTIGNORE="fg*:bg*:history*"
 
 # other
-export PS1='\[\ek\e\\\][\u@\h \W]\$ '
+export PS1="\[\e[1;34m\][\u@\h \W]\\$ \[\e[m\]"
+#export PS1="\[\e[1;37m\][\u@\h \W]\\$ \[\e[m\]"
 export LESSCHARSET=utf-8
